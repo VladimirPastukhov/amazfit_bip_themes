@@ -1,0 +1,93 @@
+{
+    "Background": {
+        "Image": {
+            "X": 0,
+            "Y": 0,
+            "ImageIndex": 0
+        }
+    },
+    "Time": {
+        "Hours": {
+            "Tens": {
+                "X": 1,
+                "Y": 33,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "X": 43,
+                "Y": 33,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            }
+        },
+        "Minutes": {
+            "Tens": {
+                "X": 95,
+                "Y": 33,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "X": 137,
+                "Y": 33,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            }
+        }
+    },
+    "Date": {
+        "WeekDay": {
+            "X": 118,
+            "Y": 6,
+            "ImageIndex": 21,
+            "ImagesCount": 7
+        },
+        "MonthAndDay": {
+            "TwoDigitsMonth": true,
+            "TwoDigitsDay": true,
+            "Separate": {
+                "Day": {
+                    "TopLeftX": 33,
+                    "TopLeftY": 5,
+                    "BottomRightX": 66,
+                    "BottomRightY": 26,
+                    "Alignment": "TopRight",
+                    "Spacing": 2,
+                    "ImageIndex": 11,
+                    "ImagesCount": 10
+                },
+                "Month": {
+                    "TopLeftX": 78,
+                    "TopLeftY": 5,
+                    "BottomRightX": 111,
+                    "BottomRightY": 26,
+                    "Alignment": "TopLeft",
+                    "Spacing": 2,
+                    "ImageIndex": 11,
+                    "ImagesCount": 10
+                }
+            }
+        }
+    },
+    "Battery": {
+        "Icon": {
+            "X": 58,
+            "Y": 131,
+            "ImageIndex": 31,
+            "ImagesCount": 10
+        }
+    },
+    "Activity": {
+        "Pulse": {
+            "TopLeftX": 1,
+            "TopLeftY": 148,
+            "BottomRightX": 55,
+            "BottomRightY": 172,
+            "Alignment": "TopLeft",
+            "Spacing": 2,
+            "ImageIndex": 11,
+            "ImagesCount": 10
+        }
+    }
+}
